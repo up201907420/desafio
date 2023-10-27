@@ -1,3 +1,5 @@
+Isaac Silva - 27/10/23
+
 # Estrtura
 
 Classe Cdr que são as informações necessárias para a criação de uma transação.
