@@ -10,4 +10,4 @@ Função Main com testes às operações implementadas.
 
 # Notas
 
-Fiquei com algumas dúvidas no enunciado como por exemplo o propósito do counterC e counterD, gostaria de ter discutido um pouco com enunciado mas na impossiblildiade de fazer tal, optei por fazer do meu melhor entendimento.
+Fiquei com algumas dúvidas no enunciado como por exemplo o propósito do counterC e counterD, gostaria de ter discutido um pouco sobre enunciado mas na impossiblildiade de fazer tal, optei por fazer do meu melhor entendimento.
